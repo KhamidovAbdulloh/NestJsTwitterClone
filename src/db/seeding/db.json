@@ -1,0 +1,93 @@
+[
+  {
+    "id": "7tkA0FioH4fgTMLYdQA2y",
+    "avatar": null,
+    "bgImage": null,
+    "username": "VitoMax",
+    "firstName": "Vito",
+    "lastName": "Corleone",
+    "location": "Rome, Italy",
+    "joined": "2024-08-23",
+    "tweets": [
+      {
+        "tweetId": "O2a0zczhTJJ0VDQRvXvM7",
+        "text": "Hi! My name is Vito. This is my first Tweet",
+        "likes": [
+          {
+            "userId": "7tkA0FioH4fgTMLYdQA2y"
+          },
+          {
+            "userId": "GABj2V7C9iN4PRTvOjkA_"
+          }
+        ],
+        "date": "2024-08-24"
+      }
+    ]
+  },
+  {
+    "id": "GABj2V7C9iN4PRTvOjkA_",
+    "avatar": null,
+    "bgImage": null,
+    "username": "AbuMax",
+    "firstName": "Abu",
+    "lastName": "Max",
+    "location": "LA, USA",
+    "joined": "2024-08-21",
+    "tweets": [
+      {
+        "tweetId": "Fn0Uft97RyZcOfxfGa7Aw",
+        "text": "Hello! My name is Abu. How are you?",
+        "likes": [
+          {
+            "userId": "7tkA0FioH4fgTMLYdQA2y"
+          }
+        ],
+        "date": "2024-08-23"
+      }
+    ]
+  },
+  {
+    "id": "OJ5mL-TyPy-PNge1UMjdS",
+    "avatar": null,
+    "bgImage": null,
+    "username": "Lucky",
+    "firstName": "Levi",
+    "lastName": "Acer",
+    "location": "London, UK",
+    "joined": "2024-08-24",
+    "tweets": [
+      {
+        "tweetId": "mEDPera5gHi32n5k1RjEa",
+        "text": "Hello! My name is Levi. I'm programmer",
+        "likes": [
+          {
+            "userId": "7tkA0FioH4fgTMLYdQA2y"
+          }
+        ],
+        "date": "2024-08-24"
+      }
+    ]
+  },
+  {
+    "id": "wFn6VeKpfXqc7fM8n85bq",
+    "avatar": null,
+    "bgImage": null,
+    "username": "JonyBony",
+    "firstName": "Jony",
+    "lastName": "Bony",
+    "location": "LS, USA",
+    "joined": "2024-08-24",
+    "tweets": [
+      {
+        "tweetId": "UVHckJE18SsDOuPZi5W5D",
+        "text": "Hi! My name is Jony. What's up",
+        "likes": [
+          {
+            "userId": "7tkA0FioH4fgTMLYdQA2y"
+          }
+        ],
+        "date": "2024-08-24"
+      }
+    ]
+  }
+]
